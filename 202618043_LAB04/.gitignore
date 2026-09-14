@@ -12,4 +12,3 @@ __pycache__/
 
 # Streamlit secrets
 .streamlit/secrets.toml
-202618043_LAB_4.ipynb
